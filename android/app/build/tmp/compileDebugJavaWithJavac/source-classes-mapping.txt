@@ -1,0 +1,14 @@
+com/uploadimage/MainApplication.java
+ com.uploadimage.MainApplication
+ com.uploadimage.MainApplication$1
+com/uploadimage/MainActivity.java
+ com.uploadimage.MainActivity
+com/uploadimage/ReactNativeFlipper.java
+ com.uploadimage.ReactNativeFlipper
+ com.uploadimage.ReactNativeFlipper$1
+ com.uploadimage.ReactNativeFlipper$2
+ com.uploadimage.ReactNativeFlipper$2$1
+com/uploadimage/BuildConfig.java
+ com.uploadimage.BuildConfig
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
