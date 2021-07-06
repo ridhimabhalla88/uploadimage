@@ -1,6 +1,0 @@
-module Pods_UploadImage_UploadImageTests {
-  umbrella header "Pods-UploadImage-UploadImageTests-umbrella.h"
-
-  export *
-  module * { export * }
-}
